@@ -30,6 +30,7 @@ public class WeatherData extends Observable{
 	{
 		this.setChanged();
 		this.notifyObservers(new Data(getTemperature(),getPressure(),getHumidity()));
+		//this.notifyObservers();
 		
 	}
 	
