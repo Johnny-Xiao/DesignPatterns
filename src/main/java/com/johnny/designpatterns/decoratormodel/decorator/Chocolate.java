@@ -1,6 +1,6 @@
 package com.johnny.designpatterns.decoratormodel.decorator;
 
-import com.johnny.designpatterns.decoratormodel.Drink;
+import com.johnny.designpatterns.decoratormodel.coffeebar.Drink;
 
 public class Chocolate extends Decorator {
 

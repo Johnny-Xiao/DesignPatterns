@@ -1,4 +1,4 @@
-package com.johnny.designpatterns.decoratormodel;
+package com.johnny.designpatterns.decoratormodel.coffeebar;
 
 public abstract class Drink {
 	public String description="";
