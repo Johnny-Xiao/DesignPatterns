@@ -1,4 +1,4 @@
-package com.johnny.designpatterns.jikexueyuan.coffeebar;
+package com.johnny.designpatterns.decoratormodel;
 
 public abstract class Drink {
 	public String description="";

@@ -1,4 +1,4 @@
-package com.johnny.designpatterns.jikexueyuan.coffeebar.coffee;
+package com.johnny.designpatterns.decoratormodel.coffee;
 
 public class Decaf extends Coffee {
 	public Decaf()

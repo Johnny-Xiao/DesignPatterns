@@ -1,6 +1,6 @@
-package com.johnny.designpatterns.jikexueyuan.coffeebar.decorator;
+package com.johnny.designpatterns.decoratormodel.decorator;
 
-import com.johnny.designpatterns.jikexueyuan.coffeebar.Drink;
+import com.johnny.designpatterns.decoratormodel.Drink;
 
 public class Chocolate extends Decorator {
 

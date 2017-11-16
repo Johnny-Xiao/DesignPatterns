@@ -1,9 +1,9 @@
-package com.johnny.designpatterns.jikexueyuan.coffeebar;
+package com.johnny.designpatterns.decoratormodel;
 
-import com.johnny.designpatterns.jikexueyuan.coffeebar.coffee.Decaf;
-import com.johnny.designpatterns.jikexueyuan.coffeebar.coffee.LongBlack;
-import com.johnny.designpatterns.jikexueyuan.coffeebar.decorator.Chocolate;
-import com.johnny.designpatterns.jikexueyuan.coffeebar.decorator.Milk;
+import com.johnny.designpatterns.decoratormodel.coffee.Decaf;
+import com.johnny.designpatterns.decoratormodel.coffee.LongBlack;
+import com.johnny.designpatterns.decoratormodel.decorator.Chocolate;
+import com.johnny.designpatterns.decoratormodel.decorator.Milk;
 
 public class CoffeeBar {
 
