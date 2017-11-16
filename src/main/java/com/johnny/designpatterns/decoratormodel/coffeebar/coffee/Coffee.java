@@ -1,4 +1,4 @@
-package com.johnny.designpatterns.decoratormodel.coffee;
+package com.johnny.designpatterns.decoratormodel.coffeebar.coffee;
 
 import com.johnny.designpatterns.decoratormodel.coffeebar.Drink;
 
